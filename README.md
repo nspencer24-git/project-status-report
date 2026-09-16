@@ -14,3 +14,6 @@
 - Conducted testing
   - Found flaws in system
 - Budget: $39,000
+## Week 5 - February 3, 2026
+- Solved about 50% of flaws
+- Budget: $35,000
